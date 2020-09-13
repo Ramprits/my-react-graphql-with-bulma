@@ -1,2 +1,3 @@
-# my-react-graphql-with-bulma
-Created with CodeSandbox
+## my-react-graphql-with-bulma
+
+Create React application with Graphql query languege.
