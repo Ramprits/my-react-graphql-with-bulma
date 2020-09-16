@@ -1,3 +1,8 @@
-## my-react-graphql-with-bulma
+# Dhanai fruits mart application
 
-Create React application with Graphql query languege.
+## How to start this application and how to implement some new feature here...
+
+> 1 clone this iapplication from github repo.
+> 2 npm i or yarn install
+> 3 yarn start
+> 4 check or open your browser on port 3000
